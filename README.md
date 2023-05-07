@@ -5,7 +5,7 @@ Tunify is a music streaming web application that allows users to search for song
 
 ## Demo
 
-Insert gif or link to demo
+[https://drive.google.com/file/d/1oqMII8FHCJLCFzQE3Q85T9C3GEoMPUm9/view?usp=share_link]
 
 
 ## Features
