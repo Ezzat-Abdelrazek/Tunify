@@ -4,8 +4,7 @@
 Tunify is a music streaming web application that allows users to search for songs, artists, and albums using the Shazam API. Users , stream music, and discover new artists and albums. Tunify is designed for music lovers who want a personalized music streaming experience.
 
 ## Demo
-
-[https://drive.google.com/file/d/1oqMII8FHCJLCFzQE3Q85T9C3GEoMPUm9/view?usp=share_link]
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://drive.google.com/file/d/1oqMII8FHCJLCFzQE3Q85T9C3GEoMPUm9/view?usp=share_link)" frameborder="0" allowfullscreen></iframe>
 
 
 ## Features
